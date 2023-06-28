@@ -50,7 +50,7 @@ gem "bootsnap", require: false
 
 gem 'reek'
 gem 'brakeman'
-gem 'webpacker', '~> 4.3.x'
+gem 'webpacker', '~> 5.0'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
